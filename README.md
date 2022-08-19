@@ -1,4 +1,5 @@
 # macOS Cursors pack for Windows
+![cursors](https://user-images.githubusercontent.com/70845998/185596217-4069ba79-258f-4b35-ae1e-c0b3055c71af.png)
 
 ## How to use it:
 
