@@ -2,7 +2,10 @@
 
 ## How to use it:
 
-1. Select a folder with the desired type and size
+1. Go to the release page.
+2. Click on the latest release and install it.
+3. Extract the zip folder.
+4. Go to the <b>macOS cursors for Windows</b> folder.
 2. Right click Install.inf and click «Install»
 3. Cursors install automatically (You must agree to the installation) and will open menu Mouse Properties. You need press "OK" button.
 4. Apply and enjoy the best cursors ever!
