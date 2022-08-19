@@ -15,4 +15,5 @@
 
 ## License
 
-This software is released under the [Apple User Agreement](http://images.apple.com/legal/sla/docs/OSX1011.pdf).
+This software is released under the [Apple User Agreement](http://images.apple.com/legal/sla/docs/OSX1011.pdf).</br>
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/arviinmo/macOS-cursor/blob/main/LICENSE.md) for details
