@@ -1,4 +1,4 @@
-# macOS Cursors Megapack for Windows
+# macOS Cursors pack for Windows
 
 ## How to use it:
 
@@ -15,6 +15,9 @@
 
 ## Author
 * [**Arvin Mostafaei**](https://arvin.vercel.app/)
+
+## Guide
+* use [this guide](https://www.guidingtech.com/how-to-customize-mouse-cursor-on-windows-11) if you still don't know how to change windows cursor.
 
 ## License
 
